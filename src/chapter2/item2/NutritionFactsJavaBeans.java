@@ -1,4 +1,4 @@
-package chapter2.item2.src;
+package chapter2.item2;
 
 // 자바빈즈 패턴 - 일관성이 깨지고 불변으로 만들 수 없다.
 public class NutritionFactsJavaBeans {

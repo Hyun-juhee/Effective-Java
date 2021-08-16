@@ -1,4 +1,4 @@
-package chapter2.item2.src;
+package chapter2.item2;
 
 // 점층적 생성자 패턴 - 확장하기 어렵다
 public class NutritionFacts {

@@ -1,4 +1,4 @@
-package chapter2.item2.src.hierarchicalBuilder;
+package chapter2.item2.hierarchicalBuilder;
 
 import java.util.EnumSet;
 import java.util.Objects;

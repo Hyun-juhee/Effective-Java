@@ -1,4 +1,4 @@
-package chapter2.item2.src;
+package chapter2.item2;
 
 public class NutritionFactsBuilder {
     private final int servingSize;

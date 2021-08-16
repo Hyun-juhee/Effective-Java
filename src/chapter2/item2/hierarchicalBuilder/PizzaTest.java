@@ -1,7 +1,7 @@
-package chapter2.item2.src.hierarchicalBuilder;
+package chapter2.item2.hierarchicalBuilder;
 
-import static chapter2.item2.src.hierarchicalBuilder.Size.*;
-import static chapter2.item2.src.hierarchicalBuilder.Topping.*;
+import static chapter2.item2.hierarchicalBuilder.Size.*;
+import static chapter2.item2.hierarchicalBuilder.Topping.*;
 
 public class PizzaTest {
     public static void main(String[] args) {

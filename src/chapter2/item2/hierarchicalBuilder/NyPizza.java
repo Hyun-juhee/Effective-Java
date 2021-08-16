@@ -1,7 +1,6 @@
-package chapter2.item2.src.hierarchicalBuilder;
+package chapter2.item2.hierarchicalBuilder;
 
 import java.util.Objects;
-import java.util.Set;
 
 public class NyPizza extends Pizza {
     private final Size size;

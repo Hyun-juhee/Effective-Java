@@ -1,4 +1,4 @@
-package chapter2.item1.src;
+package chapter2.item1;
 
 public class Student {
     private String name;

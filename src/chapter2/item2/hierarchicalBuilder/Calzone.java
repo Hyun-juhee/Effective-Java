@@ -1,4 +1,4 @@
-package chapter2.item2.src.hierarchicalBuilder;
+package chapter2.item2.hierarchicalBuilder;
 
 public class Calzone extends Pizza {
     private final boolean sauceInside;
